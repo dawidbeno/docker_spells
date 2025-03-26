@@ -14,4 +14,7 @@ Run container
 docker run --gpus all minimal-nvidia nvidia-smi
 ```
 
-
+## References
+- [NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html)
+- [Docker GPU Support](https://docs.nvidia.com/ai-enterprise/deployment/vmware/latest/docker.html)
+- [Use the GPU in Docker](https://blog.roboflow.com/use-the-gpu-in-docker/)
