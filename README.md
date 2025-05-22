@@ -7,4 +7,5 @@ Short description of how to run Docker container with GPU support.
 
 ## Bind vs Volume
 Short demonstration of differences between Docker bind mount and volume.
+Demo is done in bash scripts.
 [bind_vs_volume](bind_vs_volume/README.md)
